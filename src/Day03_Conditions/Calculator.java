@@ -34,7 +34,7 @@ public class Calculator {
     }else{
      System.out.println("Invalid Operation");
     }
-
+    sc.close();
 
 
   }
